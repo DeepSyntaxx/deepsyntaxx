@@ -1,47 +1,56 @@
-# Ömer Faruk Ceylan (deepsyntaxx)
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ömer Faruk Ceylan | CV</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #2c3e50;
+            color: #fff;
+            padding: 2rem;
+            text-align: center;
+            border-radius: 8px 8px 0 0;
+        }
+        .container {
+            background: #fff;
+            padding: 2rem;
+            border-radius: 0 0 8px 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h1 { margin: 0; font-size: 2.2rem; }
+        h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 1.5rem; }
+        h3 { color: #34495e; margin-bottom: 0.5rem; }
+        .info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 1rem; }
+        .section { margin-bottom: 1.5rem; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 5px; }
+        .contact-info {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 10px;
+        }
+        .contact-info li { background: #34495e; color: white; padding: 5px 12px; border-radius: 20px; font-size: 0.9rem; }
+        .contact-info a { color: #fff; text-decoration: none; }
+        @media (max-width: 600px) {
+            .info-grid { grid-template-columns: 1fr; }
+            .contact-info { flex-direction: column; align-items: center; }
+        }
+    </style>
+</head>
+<body>
 
-<p align="center">
-  <img src="WhatsApp Image 2026-03-25 at 14.43.40.jpeg" width="200" style="border-radius: 50%;" alt="Ömer Faruk Ceylan">
-</p>
-
-### Hakkımda
-Sakarya Uygulamalı Bilimler Üniversitesi, İnsansız Araç Teknolojileri bölümü öğrencisiyim. Lise eğitimimi Uçak Bakımı ve Uçak Elektroniği üzerine tamamladım. Otonom sistemler, endüstriyel otomasyon ve siber güvenlik alanlarında teknik çalışmalar yapmaktayım.
-
----
-
-### Eğitim Bilgileri
-* **Sakarya Uygulamalı Bilimler Üniversitesi** | İnsansız Araç Teknolojileri | 2024 - Devam Ediyor
-* **Başiskele Selim Yürekten MTAL** | Uçak Bakımı / Uçak Elektroniği (ATP) | 2019 - 2023
-
----
-
-### İş ve Staj Deneyimi
-* **3 Faz Otomasyon Elektrik Taahhüt** | Teknik Stajyer
-    * Endüstriyel otomasyon ve elektrik pano sistemleri üzerine saha çalışmaları.
-* **Hakmar Mağazacılık** | Operasyon ve Satış
-    * 2020 - 2025 yılları arasında aralıklı olarak operasyonel süreçlerde görev aldım.
-
----
-
-### Teknik Yetkinlikler
-* **Otonom Sistemler:** İHA Sistem Tasarımı, PID Kontrol, Sensör Entegrasyonu.
-* **Elektronik ve Donanım:** Uçak Aviyonik Sistemleri, PLC, Endüstriyel Otomasyon, Devre Tasarımı.
-* **Yazılım:** Python, C++, Arduino, HTML/CSS, Görüntü İşleme.
-* **Siber Güvenlik:** Sızma Testleri (Metasploit, Burp Suite), Kali Linux.
-
----
-
-### Projeler
-* **Ball and Beam Sistemi:** Arduino ve ultrasonik sensör kullanılarak geliştirilen, PID kontrollü dengeleme platformu.
-
----
-
-### İlgi Alanları
-* Geleneksel Türk Okçuluğu
-* Felsefe ve Mantık
-* Türkçe Rock
-
----
-
-### İletişim
-* **Konum:** İzmit
+<header>
