@@ -53,3 +53,14 @@ Arduino ve ultrasonik sensör mimarisi üzerinde, PID kontrol algoritması kulla
 * Gömülü Sistemler ve Yazılım
 * Elektronik Devre Tasarımı
 * Balık Tutma ve Amatör Balıkçılık
+
+---
+
+## İletişim Bilgileri
+
+| Yöntem | Bilgi |
+| :--- | :--- |
+| **Telefon** | 0530 854 91 05 |
+| **E-posta** | omerceylan073@gmail.com |
+| **Konum** | İzmit, Kocaeli |
+| **GitHub** | [github.com/deepsyntaxx](https://github.com/deepsyntaxx) |
