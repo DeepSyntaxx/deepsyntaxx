@@ -36,4 +36,20 @@ Sakarya Uygulamalı Bilimler Üniversitesi, İnsansız Araç Teknolojileri böl�
 ---
 
 ## Projeler
-* **Ball and Beam Sistemi:** Arduino ve ultrasonik sensör kullanılarak geliştirilen, PID kontroll
+* **Ball and Beam Sistemi:** Arduino ve ultrasonik sensör kullanılarak geliştirilen, PID kontrollü dengeleme platformu.
+
+---
+
+## İlgi Alanları
+* Teknoloji ve Yazılım
+* Elektronik Devreler
+* Balık Tutma
+
+
+---
+
+## İletişim
+* **Telefon:** 0530 854 91 05
+* **E-posta:** omerceylan073@gmail.com
+* **Konum:** İzmit, Kocaeli
+* **GitHub:** [deepsyntaxx](https://github.com/deepsyntaxx)
